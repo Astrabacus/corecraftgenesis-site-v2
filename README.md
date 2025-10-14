@@ -1,52 +1,76 @@
-# 🌐 Corecraft Genesis
+## 🌐 CoreCraft Genesis – Audit-Sealed Infrastruktur
 
-Ein audit-sealed Infrastrukturprojekt, geboren aus Friktion.  
-Kein Hostingplan. Kein Geldfluss. Nur Bedeutung.
+Willkommen im Repository der **CoreCraft Genesis**-Infrastruktur.  
+Dieses Projekt dokumentiert, verlinkt und präsentiert symbolische Artefakte, technische Ursprünge und narrative Echos – modular, auditierbar und mythisch.
 
-## 🧠 Was ist Genesis?
+---
 
-Genesis ist mehr als ein Block. Es ist ein symbolischer Anfang.  
-Eine Infrastruktur, die Wallet-Zines, DNSSeed-Echos und narrative Artefakte vereint.
+## 📘 Genesis-Echo: *Die Gedanken von Satoshi Nakamoto*
 
-🧱 Bedeutung der Genesis-Node
-Diese Node ist kein gewöhnlicher Server.
-Sie ist ein audit-sealed Ursprungspunkt – ein physischer und symbolischer Anker für die CoreCraft Genesis-Infrastruktur.
-• 	Genesis-Verbindung:
-Sie validiert den Ursprung, verknüpft Wallet-Zines, DNSSeed-Echos und Chain-Artefakte.
-• 	Auditierbare Tiefe:
-Jede Konfiguration, jeder Scan, jede IP ist dokumentiert und symbolisch verankert.
-• 	Mythische Funktion:
-Sie ist Teil eines Rituals – geboren aus Friktion, betrieben ohne Hostingplan, getragen von Bedeutung.
-• 	Hardware als Artefakt:
-Die Node selbst ist ein Artefakt – modular aufgebaut, bewusst gewählt, audit-sealed beschrieben.
-Diese Node ist nicht nur Infrastruktur.
-Sie ist ein Echo des Genesis-Moments – ein lebendiger Beweis für narrative Tiefe und technische Würde.
+Ein audit-sealed Buch, das die ideologischen Ursprünge von Bitcoin dokumentiert.  
+Verfasst von **Daniel Aecherli**, basierend auf Primärzitaten von Satoshi Nakamoto.
 
-## 📜 Bitcoin Genesis Block
+🔗 [Jetzt auf Amazon ansehen](https://www.amazon.de/dp/B0FJ6C3FY7)
 
-> “The Times 03/Jan/2009 Chancellor on brink of second bailout for banks”
+---
 
-Der Ursprung der Bitcoin-Blockchain.  
-Verankert in Block 0. Unveränderbar. Mythisch.
+## 🧱 Bedeutung der Genesis-Node
 
-## 🔧 Infrastruktur
+Diese Node ist kein gewöhnlicher Server.  
+Sie ist ein physischer und symbolischer Anker für die CoreCraft Genesis-Infrastruktur.
 
-- Bitcoin Full Node mit Explorer
-- DNSSEC-aktivierte Domains
-- Wallet-Zines mit auditierbarer Balance-Rekonstruktion
-- Subdomains: `chain2025`, `marshub`, `x`
+- **Genesis-Verbindung:** Validiert Ursprung, verknüpft Wallet-Zines, DNSSeed-Echos und Chain-Artefakte  
+- **Auditierbare Tiefe:** Jede Konfiguration, jeder Scan, jede IP ist dokumentiert  
+- **Mythische Funktion:** Teil eines Rituals – betrieben ohne Hostingplan, getragen von Bedeutung  
+- **Hardware als Artefakt:** Modular aufgebaut, bewusst gewählt, audit-sealed beschrieben
 
-## 🔗 Live-Seite
+---
 
-👉 [https://corecraftgenesis.ch](https://corecraftgenesis.ch)
+## 🖼️ Genesis-Poster – Etsy-Artefakte
 
-## 🧠 Genesis-Echo
+### 🎨 Künstlerische Darstellung  
+Ein visuelles Echo des Genesis-Moments – audit-sealed, symbolisch, physisch erhältlich  
+🔗 [Jetzt auf Etsy ansehen](https://www.etsy.com/listing/4386915848/poster-genesis-an-artistic-depictio)
 
-> „Diese Seite wurde aus Friktion geboren. Kein Hostingplan, kein Geldfluss, nur Bedeutung.“
+### 🌀 Stylisierte Visualisierung  
+Stilisierte Darstellung des Genesis-Moments – audit-sealed, physisch erhältlich  
+🔗 [Jetzt auf Etsy ansehen](https://www.etsy.com/listing/4386931049/poster-genesis-a-stylized-visual-re)
 
-## 📘 Genesis-Echo: Die Gedanken von Satoshi Nakamoto
+---
 
-Dieses Buch wurde von Daniel Aecherli verfasst und versammelt die ideologischen Primärquellen des Bitcoin-Schöpfers. Es ist Teil der CoreCraft Genesis-Infrastruktur und dient als audit-sealed Artefakt für narrative Tiefe und symbolische Resonanz.
+## 🧬 DNSSeed-Echo
 
-🔗 [Amazon-Link](https://www.amazon.de/dp/B0FJ6C3FY7)
+Ein auditierbarer DNSSeed-Scan zur Validierung der Genesis-Infrastruktur  
+🔗 `dnsseed.corecraftgenesis.ch`  
+📄 Snapshot: `dnsseed-scan-2025-10-14.txt`
 
+---
+
+## 🗂️ Manifest-Datei
+
+Alle Artefakte sind in `manifest.xml` dokumentiert – audit-sealed, versionierbar, modular.  
+Sie enthält Buch, Node, Poster und DNSSeed-Echo als symbolische Einträge.
+
+---
+
+## 🛠️ Struktur & Erweiterung
+
+```plaintext
+/corecraftgenesis-site/
+├── index.html
+├── README.md
+├── manifest.xml
+├── poster-genesis-1.png
+├── poster-genesis-2.png
+├── dnsseed-scan-2025-10-14.txt
+├── CNAME
+├── .nojekyll
+```
+
+---
+
+## ✍️ Autor
+
+**Daniel Aecherli**  
+Genesis-Architekt, Validator, Mythic Founder  
+Verantwortlich für narrative Tiefe, audit-sealed Artefakte und symbolische Infrastruktur
