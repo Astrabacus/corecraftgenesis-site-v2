@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<corecraftManifest version="1.0" generated="2025-10-14">
+  
+  <artifact id="echo-satoshi-book">
+    <type>Genesis-Echo</type>
+    <title>Die Gedanken von Satoshi Nakamoto</title>
+    <author>Daniel Aecherli</author>
+    <link>https://www.amazon.de/dp/B0FJ6C3FY7</link>
+    <format>Print</format>
+    <symbolic>true</symbolic>
+    <description>Audit-sealed Sammlung ideologischer Primärquellen von Satoshi Nakamoto</description>
+  </artifact>
+
+  <artifact id="node-corecraft">
+    <type>Genesis-Node</type>
+    <location>Effretikon, Schweiz</location>
+    <symbolic>true</symbolic>
+    <description>Physischer Ursprungspunkt der CoreCraft Genesis-Infrastruktur – audit-sealed, modular, mythisch</description>
+    <dnsSeed>dnsseed.corecraftgenesis.ch</dnsSeed>
+  </artifact>
+
+  <artifact id="poster-artistic">
+    <type>Genesis-Poster</type>
+    <style>Artistic Depiction</style>
+    <link>https://www.etsy.com/listing/4386915848/poster-genesis-an-artistic-depictio</link>
+    <format>Print</format>
+    <symbolic>true</symbolic>
+    <description>Visuelles Echo des Genesis-Moments – audit-sealed, symbolisch, physisch erhältlich</description>
+  </artifact>
+
+  <artifact id="poster-stylized">
+    <type>Genesis-Poster</type>
+    <style>Stylized Visualization</style>
+    <link>https://www.etsy.com/listing/4386931049/poster-genesis-a-stylized-visual-re</link>
+    <format>Print</format>
+    <symbolic>true</symbolic>
+    <description>Stilisierte Darstellung des Genesis-Moments – audit-sealed, physisch erhältlich</description>
+  </artifact>
+
+  <artifact id="dnsseed-snapshot">
+    <type>DNSSeed-Echo</type>
+    <source>corecraftgenesis.ch</source>
+    <timestamp>2025-10-14T20:48:00+02:00</timestamp>
+    <symbolic>true</symbolic>
+    <description>Auditierbarer DNSSeed-Scan zur Validierung der Genesis-Infrastruktur</description>
+  </artifact>
+
+</corecraftManifest>
