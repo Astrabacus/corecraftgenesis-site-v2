@@ -29,3 +29,10 @@ Verankert in Block 0. Unveränderbar. Mythisch.
 ## 🧠 Genesis-Echo
 
 > „Diese Seite wurde aus Friktion geboren. Kein Hostingplan, kein Geldfluss, nur Bedeutung.“
+
+## 📘 Genesis-Echo: Die Gedanken von Satoshi Nakamoto
+
+Dieses Buch wurde von Daniel Aecherli verfasst und versammelt die ideologischen Primärquellen des Bitcoin-Schöpfers. Es ist Teil der CoreCraft Genesis-Infrastruktur und dient als audit-sealed Artefakt für narrative Tiefe und symbolische Resonanz.
+
+🔗 [Amazon-Link](https://www.amazon.de/dp/B0FJ6C3FY7)
+
