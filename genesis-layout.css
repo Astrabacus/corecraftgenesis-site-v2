@@ -1,0 +1,52 @@
+:root {
+  --genesis-bg: #0a0f1c;
+  --genesis-accent: #c0b283;
+  --genesis-orbit: #6a5acd;
+  --genesis-core: #ffffff;
+}
+
+body {
+  background-color: var(--genesis-bg);
+  font-family: 'Orbitron', sans-serif;
+  color: var(--genesis-core);
+  margin: 0;
+  padding: 0;
+  display: grid;
+  place-items: center;
+  height: 100vh;
+}
+
+.genesis-layout {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  border: 2px solid var(--genesis-accent);
+  background: radial-gradient(circle at center, var(--genesis-orbit) 0%, var(--genesis-bg) 80%);
+  clip-path: polygon(
+    50% 0%, 100% 50%, 50% 100%, 0% 50%
+  );
+}
+
+.node {
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  background-color: var(--genesis-core);
+  border-radius: 50%;
+  box-shadow: 0 0 10px var(--genesis-accent);
+}
+
+.node.center { top: 50%; left: 50%; transform: translate(-50%, -50%); }
+.node.top { top: 0%; left: 50%; transform: translate(-50%, 0); }
+.node.bottom { bottom: 0%; left: 50%; transform: translate(-50%, 0); }
+.node.left { top: 50%; left: 0%; transform: translate(0, -50%); }
+.node.right { top: 50%; right: 0%; transform: translate(0, -50%); }
+
+.orbit-line {
+  position: absolute;
+  width: 2px;
+  height: 100%;
+  background-color: var(--genesis-accent);
+  left: 50%;
+  transform: translateX(-50%);
+}
