@@ -1,0 +1,32 @@
+# Echo 04 – Chain2025 Sichtbarkeit
+# Chain2025 / CoreCraft Genesis
+# Author: Daniel Aecherli
+
+echo:
+  id: 04
+  title: Chain2025 Sichtbarkeit
+  domain: corecraftgenesis.ch
+  poster: echo04.png
+  manifest: node-visibility.md
+  timestamp: 2025-10-15T18:14:00+02:00
+  status: published
+
+node:
+  domain: chain2025.corecraftgenesis.ch
+  lifetime: 3 months
+  status: confirmed
+  seed_link: dnsseed.corecraftgenesis.ch
+  notes:
+    - DNS check unsuccessful initially
+    - Visibility confirmed via audit poster
+    - Node is symbolically active
+
+links:
+  manifest: https://corecraftgenesis.ch/manifest/node-visibility.md
+  poster: https://corecraftgenesis.ch/posters/echo04
+  github: https://github.com/corecraftgenesis/chain2025
+
+notes:
+  - Echo 04 confirms visibility of Chain2025 node
+  - Poster documents symbolic emergence and DNS audit
+  - Echo 05 will mark transactional or Marshub activation
