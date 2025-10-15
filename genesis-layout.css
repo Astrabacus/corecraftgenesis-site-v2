@@ -22,9 +22,7 @@ body {
   height: 600px;
   border: 2px solid var(--genesis-accent);
   background: radial-gradient(circle at center, var(--genesis-orbit) 0%, var(--genesis-bg) 80%);
-  clip-path: polygon(
-    50% 0%, 100% 50%, 50% 100%, 0% 50%
-  );
+  clip-path: polygon(50% 0%, 100% 50%, 50% 100%, 0% 50%);
 }
 
 .node {
@@ -44,9 +42,28 @@ body {
 
 .orbit-line {
   position: absolute;
+  background-color: var(--genesis-accent);
+}
+
+.orbit-line.vertical {
   width: 2px;
   height: 100%;
-  background-color: var(--genesis-accent);
   left: 50%;
   transform: translateX(-50%);
+}
+
+.orbit-line.horizontal {
+  height: 2px;
+  width: 100%;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+footer {
+  position: absolute;
+  bottom: 20px;
+  text-align: center;
+  width: 100%;
+  color: var(--genesis-accent);
+  font-size: 0.9rem;
 }
