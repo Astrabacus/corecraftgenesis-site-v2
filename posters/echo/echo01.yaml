@@ -1,0 +1,32 @@
+# Echo 01 – Genesis Initialisierung
+# Chain2025 / CoreCraft Genesis
+# Author: Daniel Aecherli
+
+echo:
+  id: 01
+  title: Genesis Initialisierung
+  domain: corecraftgenesis.ch
+  poster: echo01.png
+  manifest: genesis.md
+  timestamp: 2025-10-15T00:00:00+02:00
+  status: published
+
+dnsseed:
+  domain: dnsseed.corecraftgenesis.ch
+  ipv4: null
+  ipv6: null
+  target: null
+  active: false
+  notes:
+    - DNSSeed not yet configured
+    - Echo 01 marks symbolic origin, not technical activation
+
+links:
+  manifest: https://corecraftgenesis.ch/manifest/genesis.md
+  poster: https://corecraftgenesis.ch/posters/echo01
+  github: https://github.com/corecraftgenesis/chain2025
+
+notes:
+  - Echo 01 is the narrative nullpoint of the Genesis chain
+  - Absence is treated as symbolic presence
+  - No active seed or node yet
